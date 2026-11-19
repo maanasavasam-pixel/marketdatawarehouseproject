@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific local secrets and data
+.env
+*.duckdb
+airflow/logs/
+data/
